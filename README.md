@@ -13,3 +13,12 @@
 ## Third Stage: 
 1) Computing the space time complexity factor and to find out the accuracy of result returned by the optimized indexing approach
 
+## Existing System Requirement
+
+The existing system under which the Minor is being developed has configuration 
+details as follows : 
+RAM: 8GB 
+System Type: 64-bit Operating System
+Processor: Intel Core i5
+The results obtained, speed and time complexity depend on the system configuration as 
+well.
