@@ -28,11 +28,12 @@ well.
 * It is fast, memory-efficient and is able to index multiple documents in a single cycle. 
 The devised approach has outperformed Apache Lucene in terms of time complexity. 
 
-* Inverted Index
-How Inverted Index Works:
+
+## How Inverted Index Works:
 
 1.	Fetching the Document
 2.	Removing the Stop Words
 3.	Stem to the Root Word
 4.	Record Document
+
 
