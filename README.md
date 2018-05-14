@@ -17,8 +17,22 @@
 
 The existing system under which the Minor is being developed has configuration 
 details as follows : 
-RAM: 8GB 
-System Type: 64-bit Operating System
-Processor: Intel Core i5
+* RAM: 8GB 
+* System Type: 64-bit Operating System
+* Processor: Intel Core i5
 The results obtained, speed and time complexity depend on the system configuration as 
 well.
+
+## Implementation
+* After analyzing and executing various indexing approaches, the approach optimized is Inverted Indexing using Hashing and it has proved to be an efficient approach.
+* It is fast, memory-efficient and is able to index multiple documents in a single cycle. 
+The devised approach has outperformed Apache Lucene in terms of time complexity. 
+
+* Inverted Index
+How Inverted Index Works:
+
+1.	Fetching the Document
+2.	Removing the Stop Words
+3.	Stem to the Root Word
+4.	Record Document
+
