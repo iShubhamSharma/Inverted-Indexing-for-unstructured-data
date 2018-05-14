@@ -36,8 +36,16 @@ The devised approach has outperformed Apache Lucene in terms of time complexity.
 3.	Stem to the Root Word
 4.	Record Document
 
-## DataSets Used In the project are attached in the Data folder, some of the data sets include:-
+## DataSets Used In the project are attached in the Data.txt file, some of the data sets include:-
 * CrpytoCurrency Data
 * ECommerce Sales Data
 * AirQuality of the states of India
 * StackOverflow Survery Result, etc
+
+## Time & Space Complexity of Our Approach V/S Existing
+* HashMap generally have no size limit (that is, you can store an unbounded number of things in it).
+
+* Searching takes O(1) time in HashMap as compared to O(n) in Array and LinkedList or O(log(n)) in B-Tree.
+
+* Apache Lucene makes use of Skip List data structure which takes O(log(n)) time in searching.
+
