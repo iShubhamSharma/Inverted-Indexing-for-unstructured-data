@@ -36,4 +36,8 @@ The devised approach has outperformed Apache Lucene in terms of time complexity.
 3.	Stem to the Root Word
 4.	Record Document
 
-
+## DataSets Used In the project are attached in the Data folder, some of the data sets include:-
+* CrpytoCurrency Data
+* ECommerce Sales Data
+* AirQuality of the states of India
+* StackOverflow Survery Result, etc
